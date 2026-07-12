@@ -1,4 +1,4 @@
-## Single-Page-CV
+## Single-Page CV
 https://roadmap.sh/projects/single-page-cv
-## Basic-HTML-Website
+## Basic HTML Website
 https://roadmap.sh/projects/basic-html-website
